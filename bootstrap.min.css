@@ -1,0 +1,22 @@
+/* styles.css */
+
+/*
+font-family: 'Bitter', serif;
+font-family: 'IM Fell DW Pica', serif;
+*/
+
+h1 {
+	font-family: 'IM Fell DW Pica', serif;
+	color: red;
+
+}
+
+p {
+	font-family: 'Bitter', serif;
+	color: white;
+	
+}
+
+body {
+	background-color: black;
+}
